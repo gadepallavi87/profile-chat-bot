@@ -2,7 +2,7 @@
 
 Bot Builder v4 chat bot sample
 
-This bot shows how to create a simple bot and collect information for user profile information.
+This bot shows how to create a simple bot and collect information for user profile.
 
 ## Prerequisites
 
