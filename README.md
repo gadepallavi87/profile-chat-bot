@@ -2,7 +2,7 @@
 
 Bot Builder v4 chat bot sample
 
-This bot shows how to create a simple bot and collect user profile information.
+This bot shows how to create a simple bot and collect information for user profile information.
 
 ## Prerequisites
 
@@ -18,7 +18,7 @@ This bot shows how to create a simple bot and collect user profile information.
 - Clone the repository
 
     ```bash
-    git clone 
+    git clone https://github.com/gadepallavi87/profile-chat-bot.git
     ```
 
 - Install modules
